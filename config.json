@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartpetch",
+        "uuid": 5615721,
+        "checksum": "iedmhj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
